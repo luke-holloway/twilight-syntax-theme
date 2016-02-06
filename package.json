@@ -13,7 +13,7 @@
     "hipster",
     "vintage"
   ],
-  "repository": "https://github.com/atom/twilight-syntax-theme",
+  "repository": "https://github.com/luke-holloway/twilight-syntax-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
