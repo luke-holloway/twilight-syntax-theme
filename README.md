@@ -7,3 +7,5 @@ Recommended to use with One Dark theme.
 Font used in screenshot: Fira Code
 
 ![A screenshot of your theme](http://i.imgur.com/Zbpd9BV.png)
+
+Checkout my website http://hollowaydesignfirm.com.
