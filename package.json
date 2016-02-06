@@ -1,13 +1,19 @@
 {
-  "name": "twilight-vim-syntax",
+  "name": "twilight-syntax-theme",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A great vim theme that I thought wa ready to be brought to the world of atom. Twilight features a great mellow enviroment that is easy on the eyes for hours.",
   "keywords": [
     "syntax",
-    "theme"
+    "mellow",
+    "theme",
+    "sunny",
+    "yellow",
+    "retro",
+    "hipster",
+    "vintage"
   ],
-  "repository": "https://github.com/atom/twilight-vim-syntax",
+  "repository": "https://github.com/atom/twilight-syntax-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
