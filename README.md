@@ -1,5 +1,9 @@
-# twilight-vim-syntax theme
+# Twilight Syntax Theme
 
-A short description of your theme.
+A mellow theme focused on easy visibility and soft colors to make for a great day in the editor.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Recommended to use with One Dark theme.
+
+Font used in screenshot: Fira Code
+
+![A screenshot of your theme](http://i.imgur.com/Zbpd9BV.png)
